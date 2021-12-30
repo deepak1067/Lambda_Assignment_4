@@ -2,7 +2,7 @@ package Assign_4;
 
 public class Calculate {
     public static void main(String[] args) {
-        Assign_4 lambda=(x, y) -> {
+        Calc lambda=(x, y) -> {
             long result = x;
             for(long i = x + 1; i <= y; i++){
                 result *= i;
