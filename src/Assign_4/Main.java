@@ -1,6 +1,6 @@
 package Assign_4;
 
-public class Main {
+public class Calculate {
     public static void main(String[] args) {
         Assign_4 lambda=(x, y) -> {
             long result = x;
